@@ -8,6 +8,14 @@ namespace QuanLiQuanCafe
 {
     static class Program
     {
+        /*
+         * Code by DCN9909
+         * 14/12/2016
+         * Phan Mem Quan Ly Quan Cafe 
+         */
+         
+
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
